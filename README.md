@@ -1,0 +1,2 @@
+# coolapp
+Maven projecat
